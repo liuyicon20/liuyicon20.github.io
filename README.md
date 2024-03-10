@@ -1,6 +1,6 @@
 # 刘艺璁
 
-![about-me](about-me.png)
+![](about-me.png)
 
 ## 科研项目
 
