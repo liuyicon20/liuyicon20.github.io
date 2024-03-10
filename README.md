@@ -1,32 +1,36 @@
-## 倪琛
+# 刘艺璁
 
-一个热爱创作的程序员。
+## 关于本人
 
-GitHub 主页：[@chen-ni](https://github.com/chen-ni)
+。。。
 
-<img width="200" alt="profile" src="https://user-images.githubusercontent.com/25177645/182061667-2b214ca1-2720-4cab-a275-04bb2bd71f0d.png">
+## 科研项目
 
-### 创作平台
+。。。
 
-可以在以下创作平台找到我：
+## 研究成果
 
-- 知乎：[倪琛](https://www.zhihu.com/people/voissurtonchemin)
-- 公众号：倪琛聊历史、倪琛聊职场
-- 豆瓣：[倪琛](https://www.douban.com/people/chen-ni)
-- CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
-- Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
-- dev.to：[@chenni](https://dev.to/chenni)
-- Medium：[@chen.ni](https://medium.com/@chen.ni)
-- YouTube：[Chen Ni](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)
+### 学术论文
 
-### 译著
+- IEEE-TASE
+- IEEE-TIE
+- IET-ITS
+- IEEE-ICUS
+- Engineering
+- CCCC
 
-- [《敏捷实战：破解敏捷落地的60个难题》](https://book.douban.com/subject/35222610/)，图灵程序设计丛书，人民邮电出版社，2020年9月
-- [《生成对抗网络项目实战》](https://book.douban.com/subject/34925965/)，图灵程序设计丛书，人民邮电出版社，2020年1月
-- [《Python计算机视觉和自然语言处理》](https://book.douban.com/subject/36014673/)，异步图书，人民邮电出版社，2021年6月
+### 发明专利
 
-### 联系方式
+- 控制
+- 分配
+- 测评
 
-- 领英：[Chen Ni](https://www.linkedin.com/in/chen-ni-2b40491b6/)
-- 邮箱：nichen301@sina.com
-- 微信：nichen_m
+### 教材专著
+
+- 教材
+- 专著
+
+## 联系方式
+
+- 邮箱
+- 微信
