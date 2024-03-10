@@ -1,6 +1,7 @@
 # 刘艺璁
 
-。。。
+![about-me](about-me.png)
+<img src="about-me.png" alt="about-me" width="400" height="115.5">
 
 ## 科研项目
 
